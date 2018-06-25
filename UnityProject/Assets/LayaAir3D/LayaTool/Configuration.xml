@@ -2,7 +2,7 @@
 <LayaExportSetting>
   <config>1</config>
   <config1>
-    <FirstlevelMenu>1</FirstlevelMenu>
+    <FirstlevelMenu>0</FirstlevelMenu>
     <MeshSetting>True</MeshSetting>
     <IgnoreVerticesTangent>False</IgnoreVerticesTangent>
     <IgnoreVerticesColor>False</IgnoreVerticesColor>
@@ -28,7 +28,7 @@
     <OtherSetting>True</OtherSetting>
     <CoverOriginalFile>True</CoverOriginalFile>
     <CustomizeDirectory>True</CustomizeDirectory>
-    <CustomizeDirectoryName>football</CustomizeDirectoryName>
+    <CustomizeDirectoryName>pitch</CustomizeDirectoryName>
     <AutoSave>True</AutoSave>
     <SavePath>/Users/kevinylu/Documents/Development/Laya/UnityExport</SavePath>
     <ScrollPositionY>0</ScrollPositionY>
