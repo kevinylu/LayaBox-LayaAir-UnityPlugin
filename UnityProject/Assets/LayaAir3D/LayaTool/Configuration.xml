@@ -28,10 +28,10 @@
     <OtherSetting>True</OtherSetting>
     <CoverOriginalFile>True</CoverOriginalFile>
     <CustomizeDirectory>True</CustomizeDirectory>
-    <CustomizeDirectoryName>pitch</CustomizeDirectoryName>
+    <CustomizeDirectoryName>footballScene</CustomizeDirectoryName>
     <AutoSave>True</AutoSave>
     <SavePath>/Users/kevinylu/Documents/Development/Laya/UnityExport</SavePath>
-    <ScrollPositionY>0</ScrollPositionY>
+    <ScrollPositionY>57</ScrollPositionY>
   </config1>
   <config2>
     <FirstlevelMenu>1</FirstlevelMenu>
